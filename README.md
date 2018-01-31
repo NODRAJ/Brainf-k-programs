@@ -1,3 +1,3 @@
-Takes 2 bytes as imput and outputs the smallest: 
+Takes 2 bytes as input and outputs the smallest: 
 
 ,>,[<<<+>>->-[<]>>]<<+[<]<.
