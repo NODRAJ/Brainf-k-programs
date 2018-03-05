@@ -50,9 +50,7 @@ Takes up to 255 different bytes as input and outputs those bytes in ascending or
 
 `>>> +`
 
-`<<<<< [<]`
-
-`<`
+`<<<<< [<] <`
 
 `[`
 
