@@ -4,7 +4,7 @@ Takes 2 different bytes as input and outputs the smallest:
 
 `> ,`
 
-`[<<< + >> - > - [<] >>]` Decrements both values until one of them is 0, a count is kept of how many times the values have been decreased
+`[<<< + >> - > - [<] >>]`Decrements both values until one of them is 0, a count is kept of how many times the values have been decreased
 
 `<< +`
 
