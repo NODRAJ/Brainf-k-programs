@@ -1,6 +1,6 @@
 Takes 2 different bytes as input and outputs the smallest: 
 
-`> ,`
+`> ,` sdgsg
 
 `> ,`
 
