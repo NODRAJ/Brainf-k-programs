@@ -110,6 +110,6 @@ Takes 2 bytes as input and outputs the sum of those bytes (most of the complexit
 
 `<< [>]`
 
-`>> ++++++++++++++++++++++++++++++++++++++++++++++++ .` If the 10s value was 1 (sum of actual values is greater than or equal to 10) the pointer will now be where the 10 was (which will now be an ascii 1), otherwise it will be on the counter value created above
+`>> ++++++++++++++++++++++++++++++++++++++++++++++++ .` If the 10 was 0 (sum of actual values is greater than or equal to 10) the pointer will now be where the 10 was (which will now be an ascii 1), otherwise it will be on the counter value created above
 
-`> ++++++++++++++++++++++++++++++++++++++++++++++++ .` If the 10s value was 0 the pointer will now be on the value next to where the 10 was (which will be the remainder of dividing the sum by 10), otherwise it will be next to the counter value created above which was decremented earlier to offset the increase (causing the value to be 0 which doesn't print a character).
+`> ++++++++++++++++++++++++++++++++++++++++++++++++ .` If the 10 was 0 the pointer will now be on the value next to where the 10 was (which will be the remainder of dividing the sum by 10), otherwise it will be next to the counter value created above which was decremented earlier to offset the increase (causing the value to be 0 which doesn't print a character).
